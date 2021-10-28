@@ -1,4 +1,4 @@
-package com.ileiwe.model;
+package com.ileiwe.data.model;
 
 import lombok.Data;
 import org.hibernate.annotations.CreationTimestamp;

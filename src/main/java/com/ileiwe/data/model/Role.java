@@ -1,4 +1,4 @@
-package com.ileiwe.model;
+package com.ileiwe.data.model;
 
 
 public enum Role {
